@@ -10,3 +10,4 @@ markupsafe==2.1.5
     # via jinja2
 pillow==10.1.0
     # via -r requirements.in
+aiohttp==3.9.1
